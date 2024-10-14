@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "642791299385",
+    "project_id": "minimal-weather-app-a7e9e",
+    "storage_bucket": "minimal-weather-app-a7e9e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642791299385:android:df89c6b6e9d2aabf3270e8",
+        "android_client_info": {
+          "package_name": "com.markprice.minimalweather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaPA1Z07FbbwB55naEFZmXk5u4A4Bjtpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
